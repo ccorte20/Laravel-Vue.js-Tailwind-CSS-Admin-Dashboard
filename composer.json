@@ -1,8 +1,13 @@
 {
-    "name": "balajidharma/laravel-vue-admin-panel",
+    "name": "chistian/laravel-vue-admin-panel",
     "type": "project",
     "description": "The Laravel Vue Admin Panel - Laravel Vue Admin Boilerplate.",
-    "keywords": ["framework", "laravel", "boilerplate", "admin panel"],
+    "keywords": [
+        "framework",
+        "laravel",
+        "boilerplate",
+        "admin panel"
+    ],
     "license": "MIT",
     "require": {
         "php": "^8.2",
